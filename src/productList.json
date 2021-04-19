@@ -1,0 +1,429 @@
+[
+    {
+      "_id": "607ba07545e333fd4ef63ba4",
+      "productPrice": "₹ 3,362.09",
+      "productImage": "https://s3.amazonaws.com/threadsmagazine.s3.tauntoncloud.com/app/uploads/5139/13/11201922/131-turn-of-cloth-01-main.jpg",
+      "productCategory": "Cloth",
+      "productName": "OPTICALL"
+    },
+    {
+      "_id": "607ba075359e2dbfb60fb416",
+      "productPrice": "₹ 3,487.06",
+      "productImage": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fGNsb3RoZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "productCategory": "Cloth",
+      "productName": "COLLAIRE"
+    },
+    {
+      "_id": "607ba075149ab1d8e069bffc",
+      "productPrice": "₹ 1,857.77",
+      "productImage": "https://images.saymedia-content.com/.image/t_share/MTc0NTAwOTAzMjYzNDE0MjE3/the-history-of-shoes-early-footwear.jpg",
+      "productCategory": "Footwear",
+      "productName": "SCHOOLIO"
+    },
+    {
+      "_id": "607ba075b7b730f3f6d59b18",
+      "productPrice": "₹ 1,033.47",
+      "productImage": "https://media4.s-nbcnews.com/i/newscms/2017_35/1278554/microfiber-cloth-today-170828-tease_0534fe65eed095bc06f0993665e9bfd1.jpg",
+      "productCategory": "Cloth",
+      "productName": "GENMY"
+    },
+    {
+      "_id": "607ba07537305f3916241f4b",
+      "productPrice": "₹ 1,706.23",
+      "productImage": "https://images.unsplash.com/photo-1445205170230-053b83016050?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdGhpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "productCategory": "Cloth",
+      "productName": "ECLIPSENT"
+    },
+    {
+      "_id": "607ba0755f435244b3b497b4",
+      "productPrice": "₹ 1,313.15",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyxzXds8GxIRfJ8tDJhNEkQ5NGE4QJc9txw&usqp=CAU",
+      "productCategory": "Crafts",
+      "productName": "UPLINX"
+    },
+    {
+      "_id": "607ba0757f28265dd0b32387",
+      "productPrice": "₹ 3,006.57",
+      "productImage": "https://img1.etsystatic.com/157/0/101056728951/inv_fullxfull.1184176433_j0obaldh.jpg",
+      "productCategory": "Crafts",
+      "productName": "HATOLOGY"
+    },
+    {
+      "_id": "607ba0757cc52ec3f851d52b",
+      "productPrice": "₹ 3,556.21",
+      "productImage": "https://m.economictimes.com/thumb/msid-78641124,width-1200,height-900,resizemode-4,imgsize-775987/both-cloth-masks-and-surgical-masks-should-be-considered-contaminated-after-use-say-experts-.jpg",
+      "productCategory": "Cloth",
+      "productName": "OVERFORK"
+    },
+    {
+      "_id": "607ba075aa84196d8a91949b",
+      "productPrice": "₹ 1,414.59",
+      "productImage": "https://cdn.pixabay.com/photo/2015/03/31/03/30/fabric-700489_960_720.jpg",
+      "productCategory": "Cloth",
+      "productName": "ZAJ"
+    },
+    {
+      "_id": "607ba0751c6516e3e7b44d8b",
+      "productPrice": "₹ 1,682.82",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/71D9ImsvEtL._UL1500_.jpg",
+      "productCategory": "Footwear",
+      "productName": "ISOLOGICA"
+    },
+    {
+      "_id": "607ba075fb2bee045dbb11c6",
+      "productPrice": "₹ 2,340.73",
+      "productImage": "https://img.freepik.com/free-photo/craft-items-blank-decorative-card-wooden-backdrop_23-2147898988.jpg?size=626&ext=jpg",
+      "productCategory": "Crafts",
+      "productName": "HARMONEY"
+    },
+    {
+      "_id": "607ba0757f010e8edf89ff77",
+      "productPrice": "₹ 2,383.24",
+      "productImage": "https://www.businessinsider.in/thumb/msid-78807720,width-640,resizemode-4/Master.jpg",
+      "productCategory": "Cloth",
+      "productName": "NETERIA"
+    },
+    {
+      "_id": "607ba075be22d93d847df819",
+      "productPrice": "₹ 1,623.15",
+      "productImage": "https://rukminim1.flixcart.com/image/714/857/k547l3k0/shoe/w/g/a/combo-2-1227-5011-9-axter-multicolor-original-imafmzy3tzthgrgd.jpeg?q=50",
+       "productCategory": "Footwear",
+      "productName": "AVENETRO"
+    },
+    {
+      "_id": "607ba075116459efa8bc5ac3",
+      "productPrice": "₹ 3,063.38",
+      "productImage": "https://images.theconversation.com/files/360752/original/file-20200930-18-wwkpvt.jpg?ixlib=rb-1.1.0&rect=258%2C0%2C5691%2C4104&q=45&auto=format&w=496&fit=clip",
+      "productCategory": "Cloth",
+      "productName": "COMBOT"
+    },
+    {
+      "_id": "607ba075e4b57931d2aa5122",
+      "productPrice": "₹ 1,850.52",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/81kFOCZdmKL._UL1500_.jpg",
+      "productCategory": "Footwear",
+      "productName": "ETERNIS"
+    },
+    {
+      "_id": "607ba0755fb51814e6d9c344",
+      "productPrice": "₹ 3,318.65",
+      "productImage": "https://thumbs.dreamstime.com/b/colored-cloth-rolls-stacked-up-tailors-rajathan-india-45315934.jpg",
+      "productCategory": "Cloth",
+      "productName": "TWIGGERY"
+    },
+    {
+      "_id": "607ba0751d0e70f229d2061e",
+      "productPrice": "₹ 3,797.45",
+      "productImage": "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2016/07/Global-Running-Footwear-Market.jpg",
+      "productCategory": "Footwear",
+      "productName": "KOOGLE"
+    },
+    {
+      "_id": "607ba0753f83d786d0a71486",
+      "productPrice": "₹ 2,487.95",
+      "productImage": "https://web.s-cdn.boostkit.dev/webactions/5ac4f587beef72050ad4e284_product_images/office-supplies-stationery1-5c304c6f86046c0001ac63bb.jpg",
+      "productCategory": "Crafts",
+      "productName": "NAVIR"
+    },
+    {
+      "_id": "607ba07591050a3ed687e885",
+      "productPrice": "₹ 3,675.74",
+      "productImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/15/w900X450/Shades_of_India.jpg",
+      "productCategory": "Footwear",
+      "productName": "ZIDOX"
+    },
+    {
+      "_id": "607ba07561d3bf61c5e73448",
+      "productPrice": "₹ 1,181.94",
+      "productImage": "https://imgmedia.lbb.in/media/2020/10/5f91148f54ae9c7a89b1f980_1603343503289.png",
+      "productCategory": "Footwear",
+      "productName": "OLUCORE"
+    },
+    {
+      "_id": "607ba0752a80df49321e222b",
+      "productPrice": "₹ 2,377.96",
+      "productImage": "https://www.quickanddirtytips.com/sites/default/files/styles/insert_medium/public/images/11406/shutterstock_81170098.jpg?itok=mxKShcpS",
+      "productCategory": "Crafts",
+      "productName": "VANTAGE"
+    },
+    {
+      "_id": "607ba0753fc4aafbc3fa082a",
+      "productPrice": "₹ 2,814.32",
+      "productImage": "https://5.imimg.com/data5/HH/RK/MY-55683095/luxury-ice-cream-sweet-candy-cart-playset-toy-with-lights-and-music-2ccandy-muffin-cake-shopping-cart-500x500.jpg",
+      "productCategory": "Toys",
+      "productName": "COMTENT"
+    },
+    {
+      "_id": "607ba0751b6dfb65d79a40d2",
+      "productPrice": "₹ 2,093.84",
+      "productImage": "https://www.hamleys.in/media/catalog/product/cache/413ca8a2e50b4929001872f5d0c833be/4/9/491602936-1.jpg",
+      "productCategory": "Crafts",
+      "productName": "BARKARAMA"
+    },
+    {
+      "_id": "607ba0758ff16a0223042a9e",
+      "productPrice": "₹ 2,786.35",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0Q5Wp_g0u3SqXwh5FEyVI_bi3HaTpDUuaw&usqp=CAU",
+      "productCategory": "Crafts",
+      "productName": "AEORA"
+    },
+    {
+      "_id": "607ba07593a953f814083a02",
+      "productPrice": "₹ 2,636.36",
+      "productImage": "https://images.immediate.co.uk/production/volatile/sites/4/2020/07/HyperX-wireless-gaming-setup-cool-gadgets-eb92e59.jpg?quality=90&resize=940,441",
+      "productCategory": "Gadgets",
+      "productName": "UBERLUX"
+    },
+    {
+      "_id": "607ba075b2f31bcd0a916158",
+      "productPrice": "₹ 3,115.97",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/hcf/h3d/14233206620190/-473Wx593H-4912802430-multi-MODEL.jpg",
+      "productCategory": "Toys",
+      "productName": "LINGOAGE"
+    },
+    {
+      "_id": "607ba075e8485e35c0984b1f",
+      "productPrice": "₹ 2,335.40",
+      "productImage": "https://rukminim1.flixcart.com/image/612/612/kkprmvk0/stacking-toy/n/g/z/rock-a-stack-fisher-price-original-imafzzzw8pzfskd9.jpeg?q=70",
+      "productCategory": "Toys",
+      "productName": "CONFERIA"
+    },
+    {
+      "_id": "607ba075f3937e4888c55943",
+      "productPrice": "₹ 2,568.02",
+      "productImage": "https://www.sphinx.co.in/wp-content/uploads/2018/07/Sphinx-artificial-PU-Foam-tiny-roses-220x268.jpg",
+      "productCategory": "Crafts",
+      "productName": "PYRAMIS"
+    },
+    {
+        "_id": "607bcbd820765b27b9a8021f",
+        "productPrice": 1478.5679,
+        "productImage": "https://static.toiimg.com/thumb/msid-79859108,width-1200,height-900,resizemode-4/.jpg",
+        "productCategory": "Home Appliances",
+        "productName": "ZAYA"
+    },
+    {
+        "_id": "607bcbd87c6d066291820905",
+        "productPrice": 2236.4494,
+        "productImage": "https://images.indianexpress.com/2020/08/Fridge-main-111.jpg",
+        "productCategory": "Home Appliances",
+        "productName": "VINCH"
+    },
+    {
+        "_id": "607bcbd84fd223b203c7fada",
+        "productPrice": 1387.0926,
+        "productImage": "https://rukminim1.flixcart.com/image/416/416/appliance-cover/5/7/e/wc9-e-retailer-original-imaeznh4rxyup7zw.jpeg?q=70",
+        "productCategory": "Home Appliances",
+        "productName": "UPLINX"
+    },
+    {
+        "_id": "607bcbd87da175b4fc645ebc",
+        "productPrice": 2109.1957,
+        "productImage": "https://www.sunflame.com/media/catalog/product/cache/1/small_image/592x592/9df78eab33525d08d6e5fb8d27136e95/j/m/jmg-crystal-with-3-jar.jpg",
+        "productCategory": "Home Appliances",
+        "productName": "COMCUBINE"
+    },
+    {
+      "_id": "607bcc4c378517205dba982c",
+      "productPrice": 3423.4553,
+      "productImage": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571331044-bst-toys-fisher-price-phone-1571330613.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "productCategory": "Toys",
+      "productName": "ULTRIMAX"
+    },
+    {
+      "_id": "607bcc4c9b87773594d458ba",
+      "productPrice": 1227.7975,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIH8Rc9KzoLJlPIavHvAFqaXP60GGZpuk2A&usqp=CAU",
+      "productCategory": "Toys",
+      "productName": "EWAVES"
+    },
+    {
+      "_id": "607bcc4c454ca8a69dd76306",
+      "productPrice": 1505.9183,
+      "productImage": "https://rukminim1.flixcart.com/image/612/612/kklhbbk0/toy-tricycle/w/0/x/059-pandaoriginals-original-imafzwp8wujhu2ha.jpeg?q=70",
+      "productCategory": "Toys",
+      "productName": "PHARMEX"
+    },
+    {
+        "_id": "607bcbd8d35e42f0667121ce",
+        "productPrice": 2144.3531,
+        "productImage": "https://images.immediate.co.uk/production/volatile/sites/4/2020/07/Moto-360-smartwatch-cool-gadgets-a864d33.jpg?quality=90&resize=940,500",
+        "productCategory": "Gadgets",
+        "productName": "ENERSOL"
+    },
+    {
+        "_id": "607bcbd83d811205d785167f",
+        "productPrice": 3072.8012,
+        "productImage": "https://thegadgetflow.com/wp-content/uploads/2020/12/BUGATTI-TIDAL-Audio-Royale-Speaker-Range-01.jpg",
+        "productCategory": "Gadgets",
+        "productName": "SEALOUD"
+    },
+    {
+        "_id": "607bcbd88c5ee7c11f08439b",
+        "productPrice": 2774.9746,
+        "productImage": "https://res.cloudinary.com/mtree/image/upload/f_auto,q_auto/Ariel_IN/en-in/-/media/Ariel_IN/Images/Article/Ariel_Desktop_M101Article_SAWMg.png?h=314&la=en-IN&w=620&v=1-201903041544",
+        "productCategory": "Home Appliances",
+        "productName": "SULTRAXIN"
+    },
+    {
+        "_id": "607bcbd89000b1abc6b31d6c",
+        "productPrice": 1390.0974,
+        "productImage": "https://www.hamleys.in/media/catalog/product/cache/413ca8a2e50b4929001872f5d0c833be/4/9/491217444-1.jpg",
+        "productCategory": "Toys",
+        "productName": "STRALUM"
+    },
+    {
+        "_id": "607bcbd8552a96780c0d8321",
+        "productPrice": 1054.5937,
+        "productImage": "https://images.indianexpress.com/2020/08/Fridge-main-111.jpg",
+        "productCategory": "Home Appliances",
+        "productName": "LINGOAGE"
+    },
+    {
+        "_id": "607bcbd80a21bc4fe5b3aab2",
+        "productPrice": 2383.1207,
+        "productImage": "https://i.guim.co.uk/img/media/48e3f8488a2b6ed8f06360863b8bdfbced08bd53/271_1782_3256_2876/master/3256.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=16485ca7c673bbfbdee29b84a32bac10",
+        "productCategory": "Gadgets",
+        "productName": "CEDWARD"
+    },
+    {
+        "_id": "607bcbd8fd56e7b59fd28b01",
+        "productPrice": 1244.4207,
+        "productImage": "https://cdn.britannica.com/w:1100/01/128701-131-74746B98/nano-iPod-2007.jpg",
+        "productCategory": "Gadgets",
+        "productName": "POLARIA"
+    },
+    {
+        "_id": "607bcbd821d617bf321a9314",
+        "productPrice": 2884.9796,
+        "productImage": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1610128741/shape/mentalfloss/21290-wiki-.jpg",
+        "productCategory": "Toys",
+        "productName": "DYMI"
+    },
+    {
+        "_id": "607bcbd8abeba0919e06d861",
+        "productPrice": 1359.8009,
+        "productImage": "https://static.digit.in/default/d036b26d15d317e31100fc9e3190c3417c8d0c47.jpeg?tr=w-1200",
+        "productCategory": "Home Appliances",
+        "productName": "LETPRO"
+    },
+    {
+        "_id": "607bcbd83abd7b32c6c3eef4",
+        "productPrice": 1288.4242,
+        "productImage": "https://static.digit.in/default/8f1720799fcc62ead5dad0704a7d1e1dd46243eb.jpeg",
+        "productCategory": "Gadgets",
+        "productName": "TALKOLA"
+    },
+    {
+        "_id": "607bcbd819f76bc94b16a273",
+        "productPrice": 1010.4714,
+        "productImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/05/mi-vacuum-1590226500.jpg",
+        "productCategory": "Gadgets",
+        "productName": "COMTRAIL"
+    },
+    {
+        "_id": "607bcbd8c94b151227be25fc",
+        "productPrice": 3913.4054,
+        "productImage": "https://images.indianexpress.com/2020/08/Fridge-main-111.jpg",
+        "productCategory": "Home Appliances",
+        "productName": "COMCUR"
+    },
+    {
+        "_id": "607bcc4c8968369d2138e803",
+        "productPrice": 1829.9525,
+        "productImage": "https://cdn.fcglcdn.com/brainbees/images/products/240x290/3179361a.webp",
+        "productCategory": "Toys",
+        "productName": "CALCULA"
+    },
+    {
+        "_id": "607bcc4cb8c986c0b7b4e82f",
+        "productPrice": 1062.6577,
+        "productImage": "https://images-na.ssl-images-amazon.com/images/I/61adOEsybBL._SY355_.jpg",
+        "productCategory": "Toys",
+        "productName": "FIBRODYNE"
+    },
+    {
+        "_id": "607bcbd818c3fe4caa57fe99",
+        "productPrice": 1730.588,
+        "productImage": "https://cpimg.tistatic.com/04743967/b/5/Juicer-Mixer-Grinder.png",
+        "productCategory": "Home Appliances",
+        "productName": "BIOLIVE"
+    },
+    {
+        "_id": "607bcbd87cf7e918d79139e9",
+        "productPrice": 2877.6303,
+        "productImage": "https://images-na.ssl-images-amazon.com/images/I/51y0%2Bwo-ZBL._SL1000_.jpg",
+        "productCategory": "Gadgets",
+        "productName": "EGYPTO"
+    },
+    {
+        "_id": "607bcbd86ad7f7c7011d29c0",
+        "productPrice": 3614.7183,
+        "productImage": "https://www.thespruce.com/thmb/TK3ODGCBTMrEJEC-uF0HWrbJotc=/fit-in/1632x1905/filters:no_upscale():max_bytes(150000):strip_icc()/325a8617-3f63-46b4-8ec1-6dcdc3b7733f.7d59416e67bb1b2784f37414d8b84965-0a00b1ae88e74518b37d6958b050f09d.jpeg",
+        "productCategory": "Toys",
+        "productName": "DELPHIDE"
+    },
+    {
+        "_id": "607bcbd8e912dbf235cb6855",
+        "productPrice": 2601.4657,
+        "productImage": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419822/201013-apple-iphone-12-new-design-ew-215p_605135d5953f5354a602f36485c5f291.jpg",
+        "productCategory": "Gadgets",
+        "productName": "MAROPTIC"
+    },
+    {
+        "_id": "607bcc230e9573baf1d3f81e",
+        "productPrice": 2106.5706,
+        "productImage": "https://i.guim.co.uk/img/media/e213f9c9b91a791b111d0d1bc77bbc5f862bf9b9/0_0_3780_2268/master/3780.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=5b51fa9cfff524d77e894155634a60c4",
+        "productCategory": "Gadgets",
+        "productName": "DATAGEN"
+    },
+    {
+        "_id": "607bcc2362601d195a8c84b0",
+        "productPrice": 2912.5923,
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LvZfZ11_TXwe37xgkPSj6rlNGsilzW-aBg&usqp=CAU",
+        "productCategory": "Gadgets",
+        "productName": "GINK"
+    },
+    {
+        "_id": "607bcc235619a6e69d39ee89",
+        "productPrice": 3326.3156,
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1u5VqWLSyKhMk2bmFKpOpOnI647nsEnlr0w&usqp=CAU",
+        "productCategory": "Toys",
+        "productName": "EARTHMARK"
+    },
+    {
+        "_id": "607bcc23e0242d0ae9ec3b95",
+        "productPrice": 1257.8317,
+        "productImage": "https://www.gizbot.com/img/2015/12/main-05-1449303059.jpg",
+        "productCategory": "Gadgets",
+        "productName": "BOSTONIC"
+    },
+    {
+        "_id": "607bcc23d8de4fdb2f00ee0c",
+        "productPrice": 2881.8509,
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCr8lK62WWnHvQ-6cbVOnKmlkVGR9aUomN0g&usqp=CAU",
+        "productCategory": "Toys",
+        "productName": "SENMEI"
+    },
+    {
+        "_id": "607bcc23bac934abc0bcd424",
+        "productPrice": 1660.3607,
+        "productImage": "https://images.indianexpress.com/2020/04/health-gadget-759.jpg",
+        "productCategory": "Gadgets",
+        "productName": "PROFLEX"
+    },
+    {
+        "_id": "607bcc239da24935d76942e6",
+        "productPrice": 1792.809,
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfj7OqITq0V3wg1NI4bMv-6PV8TruqGTPvjw&usqp=CAU",
+        "productCategory": "Toys",
+        "productName": "UTARIAN"
+    },
+    {
+        "_id": "607bcc237cc83716e7367d00",
+        "productPrice": 1686.4718,
+        "productImage": "https://i.pinimg.com/originals/c6/ed/f8/c6edf8c7909537631b246460ad5e45e3.jpg",
+        "productCategory": "Gadgets",
+        "productName": "ZENSOR"
+    }
+    ]

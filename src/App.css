@@ -1,38 +1,135 @@
-.App {
-  text-align: center;
-}
+.App{
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
+.cardComponent{
+  margin: auto 5px;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.headerComponent{
+  height:50px;
+  background: teal;
+}
+.carouselComponent{
+  overflow: hidden;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin:auto;
+  margin: 20px;
+}
+.cardComponentImage{
+  border-radius:3em;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 320px 300px;
+  height: 300px;
+  width: 320px;
+  border: 1px solid cadetblue;
+  position: relative;
+}
+.cardComponentImage button{
+  position: absolute;
+  right:-30px;
+  z-index:1000;
+  float: right;
+  top: 20px;
+  }
+.cardComponentImage .productDetails{
+  position:absolute;
+  bottom:0;
+  height: 100px;
+  width: 90%;
+  border-radius: 0px 0px 47px 47px;
+  padding-left: 10%;
+  background-color: whitesmoke;
+  z-index: 10;
+  opacity: 0.8;
+}
+h1,h2,h3,h4,h5,h6{
+  margin: 0px;
+}
+.focusImage{
+  height: 400px;
+  width: 500px;
+  background-size: 500px 400px;
+}
+.filterSelectbutton,.applyFilterbutton{
+  background: teal;
   color: white;
+  outline: none;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+.filterSection{
+  display:flex;
+  position: relative;
+  margin: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.filterMenuDiv{
+  left:2%;
+  position: absolute;
+  z-index: 100;
 }
+.filterMenu{
+  background:white;
+  background: white;
+  border: 2px solid teal;
+  padding: 10px;
+  border-radius: 7px;
+}
+.filterMenu label{
+  font-weight: bolder;
+}
+.previous, .next{
+  border: 1px solid teal;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 5px;
+  outline:none;
+  font-weight: bolder;
+}
+.carouselPrevious, .carouselNext{
+  position: absolute;
+  top: 50%;
+  z-index: 80;
+  border:none;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.previous:hover, .next:hover{
+  background:teal;
+  color:white;
+}
+.carouselNext{
+  right: 4%;
+}
+.carouselPrevious{
+  left: 4%;
+}
+.filterLabel,button{
+  cursor: pointer;
+}
+.breadcrumbsOption{
+  width: max-content;
+  padding: 0px 10px;
+  border: 1px solid teal;
+  color: teal;
+  border-radius: 16px;
+  margin: 0px 5px 10px;
+}
+.breadcrumbsOption button{
+  color: teal;
+  border: none;
+  outline: none;
+  background-color: white;
+  margin: 0px 0px 1px 10px;
+}
+.breadcrumbsOption button:hover{
+  color:red;
+}
+.inlineData{
+  display:flex;
+}
+.hearderFilterText{
+  margin-left: 100px;
 }
