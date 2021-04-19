@@ -1,18 +1,29 @@
-import {useState} from 'react';
+import {useState,useRef,useEffect} from 'react';
 import './App.css';
 import Filter from './filterMenu.js'
 import Data from './productList.json';
 import AppliedFilters from './filterBreadcrumbs.js';
-function App() {
+const App=() =>{
   const [currentIndex,setCurrentIndex] = useState(0);
   const [productList,setProductList] = useState(Data||[]);
   const [showFilterMenu,setShowFilterMenu] = useState(false);
   const [filterOptions,setFilterOptions] = useState([]);
   const [appliedFilters,setappliedFilters] = useState([]);
-  const categoryList =["Cloth","Footwear","Toys","Gadgets","Home Appliances","Crafts"]
+  const categoryList =["Cloth","Footwear","Toys","Gadgets","Home Appliances","Crafts"];
+  const filterRef = useRef(null);
   let carouselProductlist = [];
+  const handleClickOutside = (event) => {
+    if (filterRef.current && !filterRef.current.contains(event.target)) {
+      setShowFilterMenu(false);
+    }
+  };
+  useEffect(() => {
+    if(showFilterMenu){
+      document.addEventListener('click', handleClickOutside, true);
+    }
+  }, [showFilterMenu]);
   const carouselPreviousView=()=>{
-    if(currentIndex!=0){
+    if(currentIndex!==0){
       setCurrentIndex(currentIndex-1);
     }
     else{
@@ -22,7 +33,7 @@ function App() {
   }
   const displayFilterMenu = ()=>{
     setShowFilterMenu(!showFilterMenu)
-
+    setFilterOptions([...appliedFilters]);
   }
   const addFilters = (e)=>{
     let filters = filterOptions;
@@ -45,9 +56,10 @@ function App() {
   const resetFilters = ()=>{
     setProductList([...Data])
     setFilterOptions([])
+    setappliedFilters([]);
   }
   const carouselNextView=()=>{
-    if(currentIndex+1==productList.length){
+    if(currentIndex+1===productList.length){
       setCurrentIndex(0);
     }
     else
@@ -96,7 +108,7 @@ function App() {
           categoryList={categoryList}
           addFilters={addFilters}
           applyFilters={applyFilters}
-          displayFilterMenu={displayFilterMenu}/>
+          displayFilterMenu={displayFilterMenu} filterRef={filterRef}/>
         <div className="inlineData hearderFilterText">Total {productList.length} are listed for {(filterOptions.length!==0&&productList.length!==Data.length)?
         <AppliedFilters filterOptions={appliedFilters} removeFilters={removeFilters} resetFilters={resetFilters}/>:
         <strong style={{marginLeft:'2px'}}> All Catgroies</strong>}</div>

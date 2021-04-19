@@ -5,14 +5,15 @@ const  Filter = ({
     showFilterMenu,
     categoryList,
     addFilters,
-    applyFilters
+    applyFilters,
+    filterRef
 }) =>{
   
   return (
    
-        <div className="filterMenuDiv">
+        <div className="filterMenuDiv" ref={filterRef}>
           <button onClick={displayFilterMenu} className="filterSelectbutton">Filter</button>
-          {showFilterMenu&&<div className="filterMenu">
+          {showFilterMenu&&<div className="filterMenu" >
             
           <form>
           {categoryList.map((category)=>{
