@@ -100,7 +100,7 @@ const App=() =>{
   return (
     <div className="App">
       <div className="headerComponent">
-
+          <h2>Shopping Cart</h2>
       </div>
       <div className="filterSection">
         <Filter filterOptions={filterOptions}
@@ -122,7 +122,7 @@ const App=() =>{
             </span>
           </button>
         </div>
-        <div  style={{display: 'flex',margin:'auto'}}>
+        <div  style={{display: 'flex',margin:'auto'}} className="carouselMovement">
         {carouselProductlist}
         </div>
         <div className="carouselNext" >

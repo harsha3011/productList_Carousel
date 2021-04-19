@@ -15,6 +15,12 @@
   margin:auto;
   margin: 20px;
 }
+
+.headerComponent{
+  padding-top: 10px;
+  padding-left: 40px;
+  color: white;
+}
 .cardComponentImage{
   border-radius:3em;
   background-position: top;
@@ -24,7 +30,9 @@
   width: 320px;
   border: 1px solid cadetblue;
   position: relative;
+  opacity: .8;
 }
+
 .cardComponentImage button{
   position: absolute;
   right:-30px;
@@ -50,6 +58,7 @@ h1,h2,h3,h4,h5,h6{
   height: 400px;
   width: 500px;
   background-size: 500px 400px;
+  opacity: 1;
 }
 .filterSelectbutton,.applyFilterbutton{
   background: teal;
